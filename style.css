@@ -4,5 +4,10 @@ body{
     align-items: center; 
     background-image: url(cerejeira.png);
     width: 100%;
+}
 
+h1{
+   font-style: italic;
+   color: white;
+   font-size: 30px;
 }
