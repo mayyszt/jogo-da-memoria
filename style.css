@@ -1,0 +1,13 @@
+body{
+    background-image: url(cerejeira.png);
+}
+
+h1{
+   font-style: italic;
+   color: white;
+   font-size: 30px;
+}
+
+img{
+    width: 80px;
+}
