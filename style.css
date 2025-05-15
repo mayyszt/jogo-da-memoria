@@ -1,11 +1,25 @@
 body{
-    background-image: url(cerejeira.png);
+    background-image: url(img/cerejeira.png);
 }
 
 h1{
-   font-style: italic;
-   color: white;
-   font-size: 30px;
+   color: palevioletred ;
+   margin-left: 44%;
+   font-size: 33px;
+   font-weight: bold;
+}
+
+.jogo{
+    border-collapse: collapse;
+    margin: 3px;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.jogo td{
+    columns: 90px;
+    align-items: center;
+    cursor: pointer;
 }
 
 img{
