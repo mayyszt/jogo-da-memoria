@@ -1,27 +1,24 @@
 body{
     background-image: url(img/cerejeira.png);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }
 
 h1{
    color: palevioletred ;
-   margin-left: 44%;
+   text-align: center;
    font-size: 33px;
    font-weight: bold;
 }
 
-.jogo{
-    border-collapse: collapse;
-    margin: 3px;
-    padding: 2px;
-    border-radius: 10px;
-}
-
 .jogo td{
-    columns: 90px;
+    columns: 60px;
     align-items: center;
     cursor: pointer;
 }
 
 img{
-    width: 80px;
+    width: 90px;
 }
+   
